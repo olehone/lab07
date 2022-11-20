@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.2 rec\Source.cpp(60): warning C4715: 'SumMin': not all control paths return a value
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.2 rec\Source.cpp(49): warning C4715: 'Min': not all control paths return a value
+     Creating library C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.2 rec\x64\Debug\UnitTest1.lib and object C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.2 rec\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.2 rec\x64\Debug\UnitTest1.dll

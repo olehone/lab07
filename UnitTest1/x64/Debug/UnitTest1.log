@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.3 rec\Source.cpp(96): warning C4715: 'NumbZero1': not all control paths return a value
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.3 rec\Source.cpp(87): warning C4715: 'NumbZero2': not all control paths return a value
+     Creating library C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.3 rec\x64\Debug\UnitTest1.lib and object C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.3 rec\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Сьома\code\lab7.3 rec\x64\Debug\UnitTest1.dll
